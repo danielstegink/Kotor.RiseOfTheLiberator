@@ -1,0 +1,4 @@
+*.bfd
+*.zip
+*.bak
+backup/*
