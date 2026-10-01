@@ -69,17 +69,15 @@ This mod adds item texture variations which may overlap with texture variations 
 
 Fred Tetra - Kotor Tool
 
-tk102 - DLG Editor
+tk102 - DLG Editor, K-GFF
 
-Stoffe/Fair Strides - ERFEdit
-
-tk102 - K-GFF
+Stoffe and Fair Strides - ERFEdit
 
 Fair Strides - MdlOps
 
-ndix UR - TPCView
-
 Stoffe - TSLPatcher
+
+ndix UR - TPCView
 
 SilverEdge9 - Brotherhood of Shadow: Solomon's Revenge
 
